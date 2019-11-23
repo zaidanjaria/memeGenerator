@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.top-left {
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  left: 80px;
+}
+.bottom-left {
+  position: absolute;
+  text-align: center;
+  bottom: 8px;
+  left: 80px;
+}
+.imgcontainer {
+  position: relative;
+  color: white;
+  margin-top: 20px;
+}
